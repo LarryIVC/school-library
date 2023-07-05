@@ -25,7 +25,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -49,7 +48,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Manage Classes]**
+- An object-based command-line application will be implemented.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
