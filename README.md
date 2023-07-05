@@ -48,7 +48,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- An object-based command-line application will be implemented.
+- **[Manage Classes]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -139,7 +139,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add more functionalities]**
+- [ ] **[An object-based command-line application will be implemented.]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
