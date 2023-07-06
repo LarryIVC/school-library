@@ -18,14 +18,11 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  <!-- - [Run tests](#run-tests) -->
-  <!-- - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -49,20 +46,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Manage Classes]**
-
+- [⭐️ Used the POO (Object Oriented Programming) ]
+- [⭐️ Manage Classes ]
+- [⭐️ Made relatioships has-many, belong-to, many-to-many]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
-
-<!-- - [Live Demo Link](<replace-with-your-deployment-URL>) -->
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -99,30 +87,6 @@ Example command:
   ruby main.rb
 ```
 
-<!-- ### Run tests
-
-To run tests, run the following command: -->
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-<!-- ### Deployment
-
-You can deploy this project using: -->
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -140,7 +104,10 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Add more functionalities]**
+- [✔️] **[An object-based command-line application will be implemented.]**
+- [✔️] **[Add basic UI]**
+- [✔️] **[Persevere Data]**
+- [✔️] **[Unit tests]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
