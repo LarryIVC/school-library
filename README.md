@@ -46,6 +46,7 @@
 
 ### Key Features <a name="key-features"></a>
 
+- [⭐️ Maked a line command app ]
 - [⭐️ Used the POO (Object Oriented Programming) ]
 - [⭐️ Manage Classes ]
 - [⭐️ Made relatioships has-many, belong-to, many-to-many]
@@ -104,8 +105,6 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [✔️] **[An object-based command-line application will be implemented.]**
-- [✔️] **[Add basic UI]**
 - [✔️] **[Persevere Data]**
 - [✔️] **[Unit tests]**
 
@@ -139,23 +138,6 @@ I would like to thank Microverse for this opportunity.<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-<!-- ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
