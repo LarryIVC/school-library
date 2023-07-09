@@ -48,7 +48,7 @@ class App
     else
       print 'Specialization: '
       specialization = gets.chomp
-      person = Teacher.new(age, specialization, name)
+      person = Teacher.new(specialization, age, name)
       print 'Teacher '
     end
     @people.push(person)
