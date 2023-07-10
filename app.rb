@@ -43,12 +43,12 @@ class App
     if person_type == 1
       print 'Has the parent permission? (y/n)'
       parent_permission = gets.chomp.downcase == 'y'
-      person = Student.new(age, name, parent_permission: parent_permission)
+      person = Student.new(age, name, parent_permission:)
       print 'Student '
     else
       print 'Specialization: '
       specialization = gets.chomp
-      person = Teacher.new(specialization, age, name)
+      person = Teacher.new(age, specialization, name)
       print 'Teacher '
     end
     @people.push(person)
